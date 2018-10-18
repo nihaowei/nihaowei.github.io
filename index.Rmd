@@ -24,12 +24,8 @@ Great!
 
 ### I can add code 
 
-```{r}
-library(tidyverse)
-tibble(
-  x = 1:10,
-  y = x + 2 
-)
-```
+My code page is [here](code.html) 
+
+
 
 
