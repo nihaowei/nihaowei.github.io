@@ -71,6 +71,7 @@ Project Investigation on the post-exposure vaccine treatment of Rabies in Jiangs
 **Strong knowledge of:**
 
 R studio, JAVA, MATLAB, SPSS18.0, SAS, Epidata
+
 **Familiar with:**
 Excel, ApE, FinchTV, Image Studio Lite, NEB, Epidata, Metamorph for Olympus, 
 ImageJ, Genebank
