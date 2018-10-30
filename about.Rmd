@@ -1,9 +1,11 @@
 ---
+layout: post
 title: "About"
 ---
 
-### About this site
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+This is Haowei Ni's personal webapge. 
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+I am currently a MS Biostatistics in Columbia University, Mailman School of Public Health. 
+
+Hometown is Nanjing, spend 4 years in California and currently living in New York. 
