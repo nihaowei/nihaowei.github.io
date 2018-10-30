@@ -1,11 +1,42 @@
 ---
 title: "Resume"
-author: "Haowei Ni"
-date: "2018/10/30"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+[Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/)  
+
+## Education 
+
+* **Columbia University, Mailman School of Public Health,** New York, NY                       
+<br />  <right> Master of Science, Biostatistics Theory and Methods Track, expected May 2020 
+Relevant Courses: Probability, Data Science Computing With R, Epidemiology, Biostatistics Methods 
+
+* **University of California San Diego,** San Diego, CA                                              
+<br /> B.S. in Biochemistry and Cell Biology, July 2018   
+Provost Honors in Spring 2015, Winter 2015, Spring 2017, Winter 2017 
+
+## Work Experience
+
+**Jiangsu Center for Disease Control and Prevention,**  Nanjing, China, Jun 2017-Sep 2017
+<br />**Lab Assistant and Data Analyst**
+
+Project Investigation on the post-exposure vaccine treatment of Rabies in Jiangsu province
+
+* Collected clinical and demographic information from 5295 patients who received Rabies Vaccine in Yancheng Municipal Hospital from 2016 to 2017.
+
+*	Input data with Epidata and used Excel to preprocess the data set. 
+
+*	Conducted logistic regression analysis by using SPSS 18.0.
+
+*	Applied MATLAB to perform Chi-seq test and to improve the analysis efficiency.
+
+*	Focused on chronic disease epidemiology and acquired the fundamentals of the vaccine application.
+
+*	Compared the clinical effectiveness of 2-1-1 vaccination method and 5 needle vaccination method in different age groups, providing data support for the local government and hospitals to optimize the treatment procedure of 2-1-1 method.
+
+
 
