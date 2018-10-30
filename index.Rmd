@@ -1,38 +1,32 @@
 ---
-title: "Holy cow!"
+title: "**LIFE = CRAZY**"
 output:
   html_document:
     toc: true
     toc_float: true
 ---
 
-### I have a webpage!
+</center>
 
-And I can put all kinds of stuff on it!
+Haowei Ni's personal website! 
 
-I can add additional text. 
+I am currently a MS Biostatistics in Columbia University, Mailman School of Public Health. 
 
-I *could* write some code but im not going to. 
+Hometown is Nanjing, spend 4 years in California and currently living in New York.
+<br />
 
-## Add some links 
+## Experience
+This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Resume](resume.html)
 
-I like [to look for code](https://www.google.com)
+## Academic
+* Spend 4 years in [UCSD](https://ucsd.edu/)
+* Currently in [Columbia](https://www.columbia.edu/) 
+* This class is called [Data Science](https://p8105.com/)
 
-I can link directly to my [about page](about.html)
-
-### Picture of my dog 
-
-Great!
-
-<img src="images/image.png" style="width:75%">
-
-### I can add code 
-
+## Project  
 My code page is [here](code.html) 
 
-### This is my Resume 
-
-My Resume page is [here](resume.html)  
+  
 
 
 
