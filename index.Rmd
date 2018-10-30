@@ -30,6 +30,10 @@ Great!
 
 My code page is [here](code.html) 
 
+### This is my Resume 
+
+My Resume page is [here](resume.html)  
+
 
 
 
