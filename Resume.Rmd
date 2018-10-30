@@ -7,9 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/)  
+400 West 113th St Apt 728 
 
-## Education 
+Cell: 6198870013
+
+## EDUCATION  
 
 * **Columbia University, Mailman School of Public Health,** New York, NY                       
 <br />  <right> Master of Science, Biostatistics Theory and Methods Track, expected May 2020 
@@ -19,7 +21,7 @@ Relevant Courses: Probability, Data Science Computing With R, Epidemiology, Bios
 <br /> B.S. in Biochemistry and Cell Biology, July 2018   
 Provost Honors in Spring 2015, Winter 2015, Spring 2017, Winter 2017 
 
-## Work Experience
+## WORK EXPERIENCE
 
 **Jiangsu Center for Disease Control and Prevention,**  Nanjing, China, Jun 2017-Sep 2017
 <br />**Lab Assistant and Data Analyst**
@@ -38,5 +40,39 @@ Project Investigation on the post-exposure vaccine treatment of Rabies in Jiangs
 
 *	Compared the clinical effectiveness of 2-1-1 vaccination method and 5 needle vaccination method in different age groups, providing data support for the local government and hospitals to optimize the treatment procedure of 2-1-1 method.
 
+## RESEARCH EXPERIENCE
+**The Scripps Research Institute,** La Jolla, CA, Jan 2017- Sep 2017
 
+**The Zhang Laboratory, Research Assistant**
 
+*	Proficient in MATLAB programming for experiment control over TIRFM and pressure-actuated mechanism. 
+
+*	Experienced in writing code for sequencing automation to optimize efficiency of data collection.
+
+*	Strengthened independent experimental design skills and accurately followed research protocols.    
+
+*	Used RT-PCR to detect and amplify protein coding sequence and product. 
+
+*	Performed CHIP-seq to view histone modification and CRISPR/Cas9 to resolve the function of specific genes.
+
+**School of Life Sciences, Nanjing University,** Jiangsu, China Jul 2016 – Oct 2016
+**Biomedical Laboratory, Research Intern**
+
+*	Participated in the project New drug delivery systems and viable non-viral cationic polymers for gene therapy.  
+
+*	Worked in a team with other researchers as well as the primary investigator.
+
+*	Used ApE file to find the sequence of the plasmid and learned the theory behind the Western Blotting experiment. 
+
+*	Improved lab skills like PCR and troubleshooting.
+
+## SKILLS
+
+**Strong knowledge of:**
+
+R studio, JAVA, MATLAB, SPSS18.0, SAS, Epidata
+**Familiar with:**
+Excel, ApE, FinchTV, Image Studio Lite, NEB, Epidata, Metamorph for Olympus, 
+ImageJ, Genebank
+
+[Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/)
