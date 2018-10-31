@@ -23,8 +23,8 @@ This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Res
 * Currently in [Columbia](https://www.columbia.edu/) 
 * This class is called [Data Science](https://p8105.com/)
 
-## Project  
-My code page is [here](flex_dashboard.html) 
+## Project
+The page for HW4 is [here](flex_dashboard.html) 
 
   
 
