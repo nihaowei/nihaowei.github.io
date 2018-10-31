@@ -20,11 +20,10 @@ library(p8105.datasets)
     data(instacart) 
 ```
 
-
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Each Arisle vs Order Number 
+### Each Arisle vs Order Number
 
 ```{r}
 set.seed(1)
@@ -38,15 +37,28 @@ mode = "lines", fill = "tozeroy")
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Order of Day vs Demand per hour 
 
 ```{r}
-
+set.seed(1)
+Order_hours =
+  instacart %>% 
+  mutate(order_hour_of_day = as.numeric(order_hour_of_day)) %>% 
+  filter(!is.na(order_id))  %>% 
+  sample_n(10000) 
+Order_hours %>% 
+  group_by(order_dow, order_hour_of_day) %>% 
+  summarize(demand_per_hour = n()) %>% 
+  plot_ly(x = ~ order_hour_of_day, y = ~demand_per_hour, type = "violin", colors = "Set2" )
 ```
 
-### Chart C
+### Number of Order vs Department 
 
 ```{r}
-
+instacart %>% 
+  count(department, sort = TRUE) %>% 
+  mutate(department = fct_reorder(department, n)) %>% 
+  plot_ly(x = ~department, y = ~n, color = ~department,  type = "bar",
+          colors = "Set2" )
 ```
 

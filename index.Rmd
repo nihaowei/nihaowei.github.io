@@ -24,7 +24,7 @@ This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Res
 * This class is called [Data Science](https://p8105.com/)
 
 ## Project  
-My code page is [here](code.html) 
+My code page is [here](flex_dashboard.html) 
 
   
 
