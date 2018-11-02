@@ -16,7 +16,7 @@ Hometown is Nanjing, spend 4 years in California and currently living in New Yor
 <br />
 
 ## Experience
-This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Resume](resume.html)
+This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Resume](Resume.html)
 
 ## Academic
 * Spend 4 years in [UCSD](https://ucsd.edu/)

@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Cell: 6198870013
 
-## EDUCATION  
+## **EDUCATION**  
 
 * **Columbia University, Mailman School of Public Health,** New York, NY                       
 <br />  <right> Master of Science, Biostatistics Theory and Methods Track, expected May 2020 
@@ -21,7 +21,7 @@ Relevant Courses: Probability, Data Science Computing With R, Epidemiology, Bios
 <br /> B.S. in Biochemistry and Cell Biology, July 2018   
 Provost Honors in Spring 2015, Winter 2015, Spring 2017, Winter 2017 
 
-## WORK EXPERIENCE
+## **WORK EXPERIENCE**
 
 **Jiangsu Center for Disease Control and Prevention,**  Nanjing, China, Jun 2017-Sep 2017
 <br />**Lab Assistant and Data Analyst**
@@ -40,7 +40,7 @@ Project Investigation on the post-exposure vaccine treatment of Rabies in Jiangs
 
 *	Compared the clinical effectiveness of 2-1-1 vaccination method and 5 needle vaccination method in different age groups, providing data support for the local government and hospitals to optimize the treatment procedure of 2-1-1 method.
 
-## RESEARCH EXPERIENCE
+## **RESEARCH EXPERIENCE**
 **The Scripps Research Institute,** La Jolla, CA, Jan 2017- Sep 2017
 
 **The Zhang Laboratory, Research Assistant**
