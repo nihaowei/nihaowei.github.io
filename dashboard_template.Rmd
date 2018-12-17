@@ -1,7 +1,5 @@
 ---
-title: "All About U"
+title: "Together"
 ---
 
 <img src="image/dc2.jpg" style="width:100%">
-
-<img src="image/fire.jpg" style="width:100%">
