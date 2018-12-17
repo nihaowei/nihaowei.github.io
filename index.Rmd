@@ -10,5 +10,8 @@ title: "**High On Life**"
 ## Follow Us Over Here 
 [Account](about.html)
 
+## Best Moment With You
+[Pics](dashboard_template.html)  
+
 ## Theme Song 
 [Middle](https://www.youtube.com/watch?v=mOKqNxN4jWM)
