@@ -7,43 +7,25 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 12.21 
-[BlasterJaxx](https://www.youtube.com/watch?v=S73zDvMgGmI)
+## 12.21　　　　　 12.24
+[BlasterJaxx](https://www.youtube.com/watch?v=S73zDvMgGmI)　　　　　　　　　　[R3hab](https://www.youtube.com/watch?v=9flXyzcSfT4)
 
-<img src="image/jaxx.jpg" style="width:20%">
+<img src="image/jaxx.jpg" style="width:20%">　　　　　　　<img src="image/r3hab.jpg" style="width:20%">
 
-[TICKETS](http://lavony.com/event.cfm?id=199898)
+[TICKETS](http://lavony.com/event.cfm?id=199898)　　　　　　　　　　　[TICKETS](http://marqueeny.com/event.cfm?cart&id=199410)
 
 
-## 12.24 
-[R3hab](https://www.youtube.com/watch?v=9flXyzcSfT4) 
+## 12.28　　　　　 12.31 
+[Zedd](https://www.youtube.com/watch?v=n1a7o44WxNo)　　　　　　　　　　　　Countdown
 
-<img src="image/r3hab.jpg" style="width:20%">
-
-[TICKETS](http://marqueeny.com/event.cfm?cart&id=199410)
-
-## 12.28
-[Zedd](https://www.youtube.com/watch?v=n1a7o44WxNo)
-
-<img src="image/zedd.jpg" style="width:20%">
+<img src="image/zedd.jpg" style="width:20%">　　　　　　　<img src="image/cd.jpg" style="width:20%">
 
 [TICKETS](https://www.tixr.com/groups/lightandlife/events/zedd-nye-weekend-10804)
 
-## 12.31 
-Countdown
 
-<img src="image/cd.jpg" style="width:20%">
+## 1.26　　　　　 2.22
+[Afrojack](https://www.youtube.com/watch?v=sVdrDR5md2Y)　　　　　　　　　　[AlanWalker](https://www.youtube.com/watch?v=M-P4QBt-FWw)
 
-## 1.26 
-[Afrojack](https://www.youtube.com/watch?v=sVdrDR5md2Y)
+<img src="image/aj.jpg" style="width:20%">　　　　　　　<img src="image/aw.jpg" style="width:20%">
 
-<img src="image/aj.jpg" style="width:20%">
-
-[TICKETS](https://www.ticketfly.com/purchase/event/1796554?utm_medium=946393)
-
-## 2.22
-[AlanWalker](https://www.youtube.com/watch?v=M-P4QBt-FWw)
-
-<img src="image/aw.jpg" style="width:20%">
-
-[TICKETS](https://www.ticketfly.com/purchase/event/1793181?utm_medium=946393)
+[TICKETS](https://www.ticketfly.com/purchase/event/1796554?utm_medium=946393)　　　　　　　　　　　[TICKETS](https://www.ticketfly.com/purchase/event/1793181?utm_medium=946393)
