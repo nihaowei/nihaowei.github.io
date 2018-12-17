@@ -5,6 +5,4 @@ title: "Together"
 <img src="image/dc2.jpg" style="width:100%">
 
 
-<video src="video/dc.mp4" width="320" height="200" controls preload></video>
-
 <audio src="music/so.mp3" controls preload></audio>
