@@ -1,33 +1,14 @@
 ---
-title: "**LIFE = CRAZY**"
-output:
-  html_document:
-    toc: true
-    toc_float: true
+title: "**High On Life**"
 ---
 
-</center>
+<img src="image/Rave.jpg" style="width:75%">
 
-Haowei Ni's personal website! 
+## Where Are We Going Next
+[Future Events](Future_Events.html)
 
-I am currently a MS Biostatistics in Columbia University, Mailman School of Public Health. 
+## Follow Us Over Here 
+[Account](about.html)
 
-Hometown is Nanjing, spend 4 years in California and currently living in New York.
-<br />
-
-## Experience
-This is my [Linkedin](https://www.linkedin.com/in/haowei-ni-5b9000114/) and [Resume](Resume.html)
-
-## Academic
-* Spend 4 years in [UCSD](https://ucsd.edu/)
-* Currently in [Columbia](https://www.columbia.edu/) 
-* This class is called [Data Science](https://p8105.com/)
-
-## Project
-The page for HW4 is [here](flex_dashboard.html) 
-
-  
-
-
-
-
+## Theme Song 
+[Middle](https://www.youtube.com/watch?v=mOKqNxN4jWM)

@@ -11,7 +11,7 @@
 
 
 
-<title>LIFE = CRAZY</title>
+<title>High On Life</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -172,101 +169,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -314,36 +216,27 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore"><strong>LIFE = CRAZY</strong></h1>
+<h1 class="title toc-ignore"><strong>High On Life</strong></h1>
 
 </div>
 
 
-</center>
-<p>Haowei Ni’s personal website!</p>
-<p>I am currently a MS Biostatistics in Columbia University, Mailman School of Public Health.</p>
-<p>Hometown is Nanjing, spend 4 years in California and currently living in New York. <br /></p>
-<div id="experience" class="section level2">
-<h2>Experience</h2>
-<p>This is my <a href="https://www.linkedin.com/in/haowei-ni-5b9000114/">Linkedin</a> and <a href="Resume.html">Resume</a></p>
+<p><img src="image/Rave.jpg" style="width:75%"></p>
+<div id="where-are-we-going-next" class="section level2">
+<h2>Where Are We Going Next</h2>
+<p><a href="Future_Events.html">Future Events</a></p>
 </div>
-<div id="academic" class="section level2">
-<h2>Academic</h2>
-<ul>
-<li>Spend 4 years in <a href="https://ucsd.edu/">UCSD</a></li>
-<li>Currently in <a href="https://www.columbia.edu/">Columbia</a></li>
-<li>This class is called <a href="https://p8105.com/">Data Science</a></li>
-</ul>
+<div id="follow-us-over-here" class="section level2">
+<h2>Follow Us Over Here</h2>
+<p><a href="about.html">Account</a></p>
 </div>
-<div id="project" class="section level2">
-<h2>Project</h2>
-<p>The page for HW4 is <a href="flex_dashboard.html">here</a></p>
+<div id="theme-song" class="section level2">
+<h2>Theme Song</h2>
+<p><a href="https://www.youtube.com/watch?v=mOKqNxN4jWM">Middle</a></p>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
