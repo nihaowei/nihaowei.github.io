@@ -7,6 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<audio src="music/high.mp3" controls preload></audio>
+
 ## 12.21　　　　　 12.24
 [BlasterJaxx](https://www.youtube.com/watch?v=S73zDvMgGmI)　　　　　　　　　　[R3hab](https://www.youtube.com/watch?v=9flXyzcSfT4)
 
