@@ -15,3 +15,5 @@ title: "**High On Life**"
 
 ## Theme Song 
 [Middle](https://www.youtube.com/watch?v=mOKqNxN4jWM)
+
+<audio src="music/middle.mp3" controls preload></audio>
