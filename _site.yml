@@ -1,18 +1,12 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Haowei Ni"
+  title: "Rave"
   right:
-    - text: "About"
+    - text: "Follow Us"
       href: about.html
-    - text: "Resume"
-      href: Resume.html 
-    - text: "Flex_dashboard"
-      href: flex_dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:<hn2339@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/nihaowei 
+      href: mailto:<nihw009@gmail.com>
 output:
   html_document:
     theme: cosmo
